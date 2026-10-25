@@ -1,0 +1,15 @@
+# Local game files, extracted resources, build outputs, and personal logs
+work/
+deliverables/
+*.log
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Editors and operating systems
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini

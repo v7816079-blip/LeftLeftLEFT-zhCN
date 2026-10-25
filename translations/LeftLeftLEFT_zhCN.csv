@@ -1,0 +1,115 @@
+位置,英文原文,简体中文
+界面,LOADING...,加载中……
+界面,FRIEND,好友
+界面,PLAYTEST,试玩版
+界面,"WAITING FOR THE DRIVER
+TO PICK A STAGE","等待驾驶员
+选择关卡"
+界面,BACK,返回
+界面,OFF,关
+界面,BEST  —,最佳  —
+界面,NAVIGATOR,领航员
+界面,Pick a friend below.,请在下方选择一位好友。
+界面,INVITE A NAVIGATOR,邀请领航员
+界面,MAIN MENU,主菜单
+界面,STAGE 01,关卡 01
+界面,STAGE 02,关卡 02
+界面,STAGE 03,关卡 03
+界面,LEAVE,离开
+界面,START,开始
+界面,STEAM OFF,STEAM 离线
+界面,FPS CAP,帧率上限
+界面,VOLUME,音量
+界面,CREW,车组
+界面,PICK A STAGE,选择关卡
+界面,INVITE,邀请
+界面,CREW 1/2,车组 1/2
+界面,SETTINGS,设置
+界面,"<color=#998050>DRIVER</color>     steers the wreck
+<color=#998050>NAVIGATOR</color>  calls the turns","<color=#998050>驾驶员</color>  负责操控车辆
+<color=#998050>领航员</color>  负责提示转弯"
+界面,QUIT,退出
+界面,empty seat,空位
+界面,MUSIC,音乐
+界面,GAME,游戏
+界面,MENU,菜单
+界面,OG MAP  ·  first ever created for Left! Left! LEFT!,原始地图  ·  本作最早制作的地图
+界面,LEAVE SESSION,离开会话
+界面,RESTART,重新开始
+界面,ESC  BACK TO THE ROAD,ESC  返回道路
+界面,BACK TO MENU,返回主菜单
+界面,R  RESTART      ESC  MENU,R  重开      ESC  菜单
+界面,RESUME,继续
+界面,DRIVER,驾驶员
+界面,PAUSED,已暂停
+场景标记,START,起点
+场景标记,FINISH,终点
+运行时提示,CONNECTING TO STEAM...,正在连接 STEAM……
+运行时提示,STEAM LOBBY FAILED  -  restart the game,STEAM 大厅连接失败  -  请重启游戏
+运行时提示,STEAM OFF  -  ,STEAM 离线  -  
+运行时提示,WAITING FOR THE DRIVER...,正在等待驾驶员……
+运行时提示,LOBBY READY,大厅已就绪
+运行时提示,LOBBY  -  invite a navigator,大厅  -  邀请一位领航员
+运行时提示,Host — Driver,主机 — 驾驶员
+运行时提示,Client — Navigator,客户端 — 领航员
+运行时提示,Driver left the session.,驾驶员已离开会话。
+运行时提示,Invite failed — try from Steam friends.,邀请失败——请从 Steam 好友列表邀请。
+运行时提示,Invite sent to ,邀请已发送给 
+运行时提示,No online friends here — invite from the Steam overlay.,这里没有在线好友——请通过 Steam 界面邀请。
+运行时提示,No online friends. Invite from the Steam friends list instead.,没有在线好友。请改用 Steam 好友列表邀请。
+运行时提示,Online friends: {0}. Pick one below (or invite from Steam).,在线好友：{0}。请在下方选择（或从 Steam 邀请）。
+运行时提示,"Online friends: {0}. Pick one, or use the Steam overlay.",在线好友：{0}。请选择一位，或使用 Steam 界面邀请。
+运行时提示,Offline (solo stage),离线（单人关卡）
+运行时提示,This PC's Wi-Fi IP (other PC types this):,本机 Wi-Fi IP（在另一台电脑上输入）：
+运行时提示,(no LAN IP — connect Wi-Fi first),（未获取局域网 IP——请先连接 Wi-Fi）
+运行时提示,Host failed — port ,主机创建失败——端口 
+运行时提示,PLAYTEST BUILD,试玩版本
+运行时提示,PRESS R WHEN READY,准备好后按 R
+运行时提示,READY,就绪
+运行时提示,FINISHED,已完成
+运行时提示,DOOR ON,车门 开
+运行时提示,DOOR OFF,车门 关
+运行时提示,MUD ON,泥污 开
+运行时提示,MUD OFF,泥污 关
+运行时提示,LIGHT,浅色
+运行时提示,DARK,深色
+运行时提示,CREW ,车组 
+运行时提示,DRIVER,驾驶员
+运行时提示,NAVIGATOR,领航员
+运行时提示,empty seat,空位
+运行时提示,  (you),  （你）
+运行时提示,OFF,关
+运行时提示,Host (you drive),主机（你负责驾驶）
+运行时提示,Join (you navigate),加入（你负责领航）
+运行时提示,STREET,街道
+运行时提示,CONTROLS,操作说明
+运行时提示,"E            grab / drop tablet
+HOLD E       dash knob = wipers
+             (drop tablet first)
+LMB + look   grab open door, slam shut
+MOUSE        look around","E            拿起 / 放下平板
+长按 E       仪表板旋钮 = 雨刷
+             （先放下平板）
+LMB + 视角   抓住打开的车门并关上
+MOUSE      环顾四周"
+运行时提示,"W / S     throttle / brake
+A / D     steer
+SPACE     handbrake
+MOUSE     look around","W / S     油门 / 刹车
+A / D     转向
+SPACE     手刹
+MOUSE     环顾四周"
+运行时提示,"You're in an early playtest with limited content.
+Stages, UI and feel can still change a lot —
+this is not what the final game has to look like.
+Expect bugs, jank, and unfinished bits.
+
+Thanks for breaking it with us.","你正在参与内容有限的早期试玩。
+关卡、界面和手感仍可能有较大改动——
+本次试玩并不代表游戏的最终形态。
+可能会遇到程序错误、卡顿和未完成内容。
+
+感谢你与我们一起把它“玩坏”。"
+运行时提示,      NAVIGATOR  ,      领航员  
+运行时提示,DRIVER  ,驾驶员  
+运行时提示,DRIVER  —      NAVIGATOR  —,驾驶员  —      领航员  —
